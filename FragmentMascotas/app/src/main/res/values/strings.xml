@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">FragmentMascotas</string>
+    <string name="nombreCV">Alex Del Angel</string>
+    <string name="tvnombre">nombre</string>
+    <string name="tvrating">rating</string>
+
+    <!-- menu_bar -->
+    <string name="itemFav">Favoritos</string>
+    <string name="itemContacto">Contacto</string>
+    <string name="itemAcerca">Acerca de</string>
+
+    <!-- Contacto -->
+    <string name="tilNombre">Nombre</string>
+    <string name="tilEmail">E-mail</string>
+    <string name="tilMensaje">Mensaje</string>
+    <string name="botonEnviar">Enviar Comentario</string>
+
+    <!-- About -->
+    <string name="about">Acerca De</string>
+    <string name="creado">Creado por</string>
+    <string name="nombreCreador">Alejandro Valdivia</string>
+    <string name="Desarrollado">Desarrolado para</string>
+    <string name="plataforma">Coursera</string>
+    <string name="version">Versión</string>
+    <string name="noVersion">1.1.0</string>
+    
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
